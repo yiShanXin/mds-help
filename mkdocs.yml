@@ -1,0 +1,13 @@
+site_name: MediShares Help
+site_description: The World's First Mutual Aid Marketplace On BlockChain
+site_author: MediShares
+
+
+site_url: http://help.medishares.org/
+repo_url: https://github.com/MediShares/mds-help
+
+dev_addr: 0.0.0.0:8000
+
+theme_dir: 'mkdocs_docskimmer'
+
+copyright: Copyright &copy; 2018 MediShares
