@@ -13,9 +13,9 @@ copyright: Copyright &copy; 2018 MediShares
 pages:
     - Home: index.md
     - 中文:
-        - 关于: cn/about.md
+        - 常见问题: cn/QA.md
     - English:
-        - About: en/about.md
+        - QA: en/QA.md
 
 plugins:
     - search
