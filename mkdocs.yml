@@ -8,6 +8,14 @@ repo_url: https://github.com/MediShares/mds-help
 
 dev_addr: 0.0.0.0:8000
 
-theme_dir: 'mkdocs_docskimmer'
-
 copyright: Copyright &copy; 2018 MediShares
+
+pages:
+    - Home: index.md
+    - 中文:
+        - 关于: cn/about.md
+    - English:
+        - About: en/about.md
+
+plugins:
+    - search
