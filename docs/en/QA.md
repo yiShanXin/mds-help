@@ -21,7 +21,7 @@ English: [https://medium.com/@MediShares/how-to-install-mds-wallet-beta-app-ce0e
 
 ### How long does it take to process the candy？
 
-Since there were so many users participated the candy activity, we are busy processing the verification. Please wait patiently and thanks for your understanding!
+Since there were so many users participated the candy activity, we are trying our best to process the verification as soom as possible. Please wait patiently and thanks for your understanding!
 
 ### Can’t receive the verification code in email box. 
 
