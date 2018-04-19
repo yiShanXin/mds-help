@@ -28,3 +28,15 @@
 
 这么优秀的麦子钱包，你安装了吗👇
 ![IMG_0446](https://upload-images.jianshu.io/upload_images/9492181-cbef873fefdfc3f0.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/700)
+
+---------
+
+MDS 一币在手，安全无忧
+
+官网 http://www.medishares.org/
+
+官微 https://weibo.com/MediShares
+
+Twitter https://twitter.com/MediShares
+
+Telegram https://t.me/medishares
