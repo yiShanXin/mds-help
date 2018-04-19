@@ -2,10 +2,12 @@
 
 1. 首先，找到你的钱包地址：打开麦子钱包，点击钱包页面上地址。
 
+
 ![IMG_0446](https://upload-images.jianshu.io/upload_images/9492181-cff17cf783dba613.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/350)
 
 
 2. 选择复制地址
+
 
 ![IMG_0446](https://upload-images.jianshu.io/upload_images/9492181-17a180fdcbf08750.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/350)
 
