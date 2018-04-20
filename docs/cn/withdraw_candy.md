@@ -1,10 +1,12 @@
 ##### 前期报名了参与测试领糖果活动，现在要如何领取MDS糖果呢？
 
 
-1. 首先，安装麦子钱包：http://www.medishares.org/beta/?from=wxdyh
+1. 首先，安装麦子钱包：
+http://www.medishares.org/beta/?from=wxdyh
 
 
-2. 打开手机上的**麦子钱包**，点击首页右下方的图标**“我”**
+2. 打开手机上的**麦子钱包**，点击首页右下方的图标**我**
+
 ![我](https://upload-images.jianshu.io/upload_images/9492181-50cc0b322d5aa432.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 3. 进入**我**页面， 点击**领糖果**
