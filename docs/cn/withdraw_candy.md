@@ -29,7 +29,7 @@ http://www.medishares.org/beta/?from=wxdyh
 
 ![选择钱包](https://upload-images.jianshu.io/upload_images/9492181-96e8d0ff17d1c499.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-8. 出现**”待审核“**提示，说明你已经领取成功啦。MDS工作人员会在工作日快马加鞭为你审核，请耐心等待。一旦审核通过，糖果就会躺在你的麦子钱包里哦！
+8. 出现**待审核**提示，说明你已经领取成功啦。MDS工作人员会在工作日快马加鞭为你审核，请耐心等待。一旦审核通过，糖果就会躺在你的麦子钱包里哦！
 
 
 ![等待成功](https://upload-images.jianshu.io/upload_images/9492181-cf42d86dff47b47c.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -52,14 +52,6 @@ http://www.medishares.org/beta/?from=wxdyh
 **Twitter**[https://twitter.com/MediShares](https://link.jianshu.com/?t=https%3A%2F%2Ftwitter.com%2FMediShares)
 
 **Telegram**[https://t.me/medishares](https://link.jianshu.com/?t=https%3A%2F%2Ft.me%2Fmedishares)
-
-
-
-
-
-
-
-
 
 
 
