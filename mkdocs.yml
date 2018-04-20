@@ -14,6 +14,9 @@ pages:
     - Home: index.md
     - 中文:
         - 常见问题: cn/QA.md
+        - 如何导入钱包到麦子钱包: cn/importwallet.md
+        - 如何设置修改钱包名称: cn/renamewallet.md
+        - 如何从交易所提现到麦子钱包: cn/withdraw2wallet.md
     - English:
         - QA: en/QA.md
 
