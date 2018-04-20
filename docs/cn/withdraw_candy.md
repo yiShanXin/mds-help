@@ -2,6 +2,8 @@
 
 
 1. 首先，安装麦子钱包：http://www.medishares.org/beta/?from=wxdyh
+
+
 2. 打开手机上的**麦子钱包**，点击首页右下方的图标**“我”**
 ![我](https://upload-images.jianshu.io/upload_images/9492181-50cc0b322d5aa432.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -14,15 +16,19 @@
 ![输入邮箱地址](https://upload-images.jianshu.io/upload_images/9492181-d1a840422a544f44.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 5.在刚刚填写的邮箱中找到MediShares发送的验证码，如果在收件箱找不到验证码邮件，多半是跑到垃圾邮箱去了，也请检查一下呢。
+
 ![输入验证码](https://upload-images.jianshu.io/upload_images/9492181-e92cadfc91945998.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 6.成功登录以后，点击卡片上**待领取**
+
 ![待领取](https://upload-images.jianshu.io/upload_images/9492181-a10989e2e99f4912.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 7.选择领取糖果的钱包
+
 ![选择钱包](https://upload-images.jianshu.io/upload_images/9492181-96e8d0ff17d1c499.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 8. 出现**”待审核“**提示，说明你已经领取成功啦。MDS工作人员会在工作日快马加鞭为你审核，请耐心等待。一旦审核通过，糖果就会躺在你的麦子钱包里哦！
+
 
 ![等待成功](https://upload-images.jianshu.io/upload_images/9492181-cf42d86dff47b47c.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
