@@ -5,7 +5,7 @@ Many friends asked how to withdraw the candies on candy site:
 
 ![](https://cdn-images-1.medium.com/max/750/1*XITWcbrU1XoRcKCnTV3F7w.jpeg)
 
-First of all, you should install a MDS Wallet on your mobile phone: http://www.medishares.org/beta/?from=wxdyh
+#### First of all, you should install a MDS Wallet on your mobile phone: http://www.medishares.org/beta/?from=wxdyh
 
 1. Open the MDS Wallet, click **Me** on the bottom right comer.
 
@@ -39,8 +39,9 @@ First of all, you should install a MDS Wallet on your mobile phone: http://www.m
 ![](https://cdn-images-1.medium.com/max/750/1*yVHZ15ZVROlim3384f2gtQ.jpeg)
 
 
-The verification process may take few business days, please wait patiently. Thank you for your understanding and support!
+#### The verification process may take few business days, please wait patiently. Thank you for your understanding and support!
 
+![](https://cdn-images-1.medium.com/max/750/1*fIsNs0snJV6rz97g7Wh1VQ.png)
 
 Install MDS Wallet: http://www.medishares.org/beta/
 
