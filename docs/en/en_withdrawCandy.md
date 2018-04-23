@@ -1,22 +1,22 @@
 
-#### How to withdraw candies to your MDS Wallet ?
+### How to withdraw candies to your MDS Wallet ?
 
 Many friends asked how to withdraw the candies on candy site:
 
 ![](https://cdn-images-1.medium.com/max/750/1*XITWcbrU1XoRcKCnTV3F7w.jpeg)
 
-First of all, you should install a MDS Wallet on your mobile phone: http://www.medishares.org/beta/
+First of all, you should install a MDS Wallet on your mobile phone: http://www.medishares.org/beta/?from=wxdyh
 
-1. Open the MDS Wallet, click Me on the bottom right comer.
+1. Open the MDS Wallet, click **Me** on the bottom right comer.
 
 ![](https://cdn-images-1.medium.com/max/750/1*qhauIfmlrWALRk7vehPiew.jpeg)
 
-2. Select Candies
+2. Select **Candies**
 
 ![](https://cdn-images-1.medium.com/max/750/1*LJSSUryhvvsxRoH0w1xSeQ.jpeg)
 
 
-3. Enter the email address you signed up on candy site. (Note: if you want to withdraw the candies on candy site, please enter the same email address as the one you signed up by on candy site.) Then press Login on top right corner.
+3. Enter the email address you signed up on candy site. (Note: if you want to withdraw the candies on candy site, please enter the same email address as the one you signed up by on candy site.) Then press **Login** on top right corner.
 
 ![](https://cdn-images-1.medium.com/max/750/1*qDeYA5PbhciMZgRehoxxrQ.png)
 
@@ -47,8 +47,14 @@ Install MDS Wallet: http://www.medishares.org/beta/
 The goal of MediShares Community: hold MDS, no worries.
 
 Official Website: http://www.medishares.org/
+
 Telegram: https://t.me/medisharesEN
+
 Twitter: https://twitter.com/MediShares
+
 Facebook: https://www.facebook.com/MediShares-1971171169832807/
+
 GitHub：https://github.com/MediShares
+
 Whitepaper: http://doc.medishares.org/whitepaper/MediShares.Whitepaper.EN.pd
+
