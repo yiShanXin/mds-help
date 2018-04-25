@@ -1,4 +1,4 @@
-#### How to Rename MDS Wallet?
+### How to Rename MDS Wallet?
 
 1. Firstly, click the icon on the top right corner.
 
@@ -21,8 +21,14 @@
 Install MDS Wallet: http://www.medishares.org/beta/
 
 Official Website: http://www.medishares.org/
+
 Telegram: https://t.me/medisharesEN
+
 Twitter: https://twitter.com/MediShares
+
 Facebook: https://www.facebook.com/MediShares-1971171169832807/
+
 GitHub：https://github.com/MediShares
+
 Whitepaper: http://doc.medishares.org/whitepaper/MediShares.Whitepaper.EN.pd
+
