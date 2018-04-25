@@ -1,4 +1,4 @@
-#### How to withdraw MDS from exchange to MDS Wallet?
+### How to withdraw MDS from exchange to MDS Wallet?
 
 1. Firstly, open MDS Wallet and find your wallet address and then click it.
 
