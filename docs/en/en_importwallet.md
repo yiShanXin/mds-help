@@ -4,15 +4,15 @@
 
 ![](https://cdn-images-1.medium.com/max/750/1*VnMNSUX9GFOZiHEpJvoxqA.jpeg)
 
-2. Choose Manage Wallets.
+2. Choose **Manage Wallets**.
 
 ![](https://cdn-images-1.medium.com/max/750/1*7cYCYuLspk3GUKGvOrK47g.jpeg)
 
-3. Then choose Import Wallet.
+3. Then choose **Import Wallet**.
 
 ![](https://cdn-images-1.medium.com/max/750/1*Ba5T6A3g6lGDZxjfsuUl2Q.jpeg)
 
-4. Now, MDS Wallet has supported importing wallet by keystore, private key or mnemonic, select a way you’d like, fill in the information required and impress Import Wallet.
+4. Now, MDS Wallet has supported importing wallet by **keystore**, **private key** or **mnemonic**, select a way you’d like, fill in the information required and impress Import Wallet.
 
 ![](https://cdn-images-1.medium.com/max/750/1*zdnbqvBjACJfFXzbweHs1Q.png)
 
