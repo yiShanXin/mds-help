@@ -4,7 +4,7 @@
 
 ![](https://cdn-images-1.medium.com/max/750/1*qmO8uCT0COKSq1u97YLVBw.jpeg)
 
-2. Click Copy the address
+2. Click **Copy the address**
 
 ![](https://cdn-images-1.medium.com/max/750/1*rtuq3oJcwwRhoipQvTpKCA.png)
 
