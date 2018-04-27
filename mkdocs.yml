@@ -12,13 +12,18 @@ copyright: Copyright &copy; 2018 MediShares
 
 pages:
     - Home: index.md
-    - 中文:
+    - 麦子钱包:
         - 常见问题: cn/QA.md
         - 如何导入钱包到麦子钱包: cn/importwallet.md
         - 如何设置修改钱包名称: cn/renamewallet.md
         - 如何从交易所提现到麦子钱包: cn/withdraw2wallet.md
-    - English:
+        - 如何领取MDS糖果: cn/withdraw_candy.md
+    - MDSWallet:
         - QA: en/QA.md
+        - Import: en/en_importwallet.md
+        - Rename: en/en_rename.md
+        - Withdraw: en/en_withdrawMDS.md
+        - Candy: en/en_withdrawCandy.md
 
 plugins:
     - search
