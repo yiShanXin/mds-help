@@ -18,7 +18,7 @@ QA
 
 请阅读如下说明：
 
-中文： [https://www.jianshu.com/p/24a87adf3927]()  
+中文： [https://www.jianshu.com/p/24a87adf3927]()
 English: [https://medium.com/@MediShares/how-to-install-mds-wallet-beta-app-ce0e7702fbf1]()
 
 ### 审核糖果需要多久？
@@ -29,4 +29,9 @@ English: [https://medium.com/@MediShares/how-to-install-mds-wallet-beta-app-ce0e
 
 请查看一下邮箱的垃圾邮件中是否收到。
 
+### 转账很久了，但状态一直显示【打包中】是怎么回事？
 
+以太坊网络发生拥堵时，手续费较低的交易会需要等网络拥堵解决才会被打包，时间不好判断。
+只能等待打包，请勿重复发送。
+如果后续有其他比较急的转账，建议提高gas手续费金额。
+查询目前以太坊网络拥堵情况（超过10000笔即为拥堵）：[https://etherscan.io/chart/pendingtx](https://etherscan.io/chart/pendingtx)
