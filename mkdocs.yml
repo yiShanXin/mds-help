@@ -18,12 +18,18 @@ pages:
         - 如何设置修改钱包名称: cn/renamewallet.md
         - 如何从交易所提现到麦子钱包: cn/withdraw2wallet.md
         - 如何领取MDS糖果: cn/withdraw_candy.md
+        - EOS一键映射操作指南: cn/eosmapping.md
+        - 如何验证EOS映射结果: cn/eosmappingverify.md
+        - EOS账户名注册: cn/eosacct.md
     - MDSWallet:
         - QA: en/QA.md
         - Import: en/en_importwallet.md
         - Rename: en/en_rename.md
         - Withdraw: en/en_withdrawMDS.md
         - Candy: en/en_withdrawCandy.md
+        - EOSMapping: en/eosmapping.md
+        - EOSMappingVerify: en/eosmappingverify.md
+        - EOSAccount: en/eosacct.md
 
 plugins:
     - search
