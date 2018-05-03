@@ -23,7 +23,7 @@ English: [https://medium.com/@MediShares/how-to-install-mds-wallet-beta-app-ce0e
 
 ### 审核糖果需要多久？
 
-因为参与测试活动的用户角度，目前工作人员正在加紧审核，请耐心等待。
+因为参与测试活动的用户较多，目前工作人员正在加紧审核，请耐心等待。
 
 ### 收不到邮箱验证码
 
