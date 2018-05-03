@@ -15,7 +15,7 @@
 3. 选择需要修改名称的钱包
 
 
-![IMG_0446](https://upload-images.jianshu.io/upload_images/9492181-0399a774e9241caf.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/350）
+![IMG_0446](https://upload-images.jianshu.io/upload_images/9492181-0399a774e9241caf.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/350)
 
 
 4. 点击钱包名称
