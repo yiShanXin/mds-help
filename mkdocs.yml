@@ -1,31 +1,27 @@
-site_name: MediShares Help
-site_description: The World's First Mutual Aid Marketplace On BlockChain
-site_author: MediShares
+site_name: MathWallet Doc
+site_description: In Math We Trust!
+site_author: MathWallet
 
 
-site_url: http://help.medishares.org/
+site_url: http://doc.mathwallet.org/
 repo_url: https://github.com/MediShares/mds-help
 
 dev_addr: 0.0.0.0:8000
 
-copyright: Copyright &copy; 2018 MediShares
+copyright: Copyright &copy; 2018 MathWallet
 
 pages:
     - Home: index.md
-    - 麦子钱包:
-        - 常见问题: cn/QA.md
-        - 如何导入钱包到麦子钱包: cn/importwallet.md
-        - 如何设置修改钱包名称: cn/renamewallet.md
-        - 如何从交易所提现到麦子钱包: cn/withdraw2wallet.md
-        - 如何领取MDS糖果: cn/withdraw_candy.md
-        - 如何加入账户安全保障合约: cn/cryptocontract.md
-        - 钱包的盾牌图标是什么意思: cn/dunpai.md
-    - MDSWallet:
-        - QA: en/QA.md
-        - Import: en/en_importwallet.md
-        - Rename: en/en_rename.md
-        - Withdraw: en/en_withdrawMDS.md
-        - Candy: en/en_withdrawCandy.md
+    - 中文:
+        - EOS: cn/eos.md
+        - ETH: cn/eth.md
+        - EOS原力: cn/eosforce.md
+        - 更多问题: cn/more.md
+    - English:
+        - EOS: en/eos.md
+        - ETH: en/eth.md
+        - EOSForce: en/eosforce.md
+        - More: en/more.md
 
 plugins:
     - search
