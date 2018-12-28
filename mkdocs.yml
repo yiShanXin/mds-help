@@ -15,11 +15,19 @@ pages:
     - 中文:
         - EOS: cn/eos.md
         - ETH: cn/eth.md
+        - TRON: cn/tron.md
+        - ONT: cn/ont.md
+        - BTC: cn/btc.md
+        - NEO: cn/neo.md
         - EOS原力: cn/eosforce.md
         - 更多问题: cn/more.md
     - English:
         - EOS: en/eos.md
         - ETH: en/eth.md
+        - TRON: en/tron.md
+        - ONT: en/ont.md
+        - BTC: en/btc.md
+        - NEO: en/neo.md
         - EOSForce: en/eosforce.md
         - More: en/more.md
 

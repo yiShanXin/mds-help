@@ -1,20 +1,20 @@
-ETH DAPP Development Document
+TRON DAPP Development Document
 
 # Web dApp Development
 
-## Web3 API
+## TronWeb API
 
-Math Wallet is compatible with web3 API same as metamask.
+MathWallet has supported TronWeb (web3) API same as tronlink or tronpay.
 
-### Web3 API official document
+### TronWeb API official document
 
-[https://github.com/ethereum/wiki/wiki/JavaScript-API](https://github.com/ethereum/wiki/wiki/JavaScript-API)
+[https://github.com/TronWatch/TronWeb](https://github.com/TronWatch/TronWeb)
 
-### Web3 API Demo Projects
+### Tron DAPP Demo Projects
 
-Math Wallet web3 API development and testing sample
+[https://github.com/MediShares/mds-trxjs](https://github.com/MediShares/mds-trxjs)
 
-[https://github.com/MediShares/mds-ethjs](https://github.com/MediShares/mds-ethjs)
+[https://github.com/kookiekrak/TronLink-Demo-Messages](https://github.com/kookiekrak/TronLink-Demo-Messages)
 
 # Native dApp Development
 
@@ -26,7 +26,7 @@ To use this API, please read the API doc:
 
 [https://github.com/MediShares/SimpleWallet](https://github.com/MediShares/SimpleWallet)
 
-Note: transferReq.blockchain please use 'ethereum'
+Note: transferReq.blockchain please use 'tron'
 
 SDK example developed by Math Wallet team:
 

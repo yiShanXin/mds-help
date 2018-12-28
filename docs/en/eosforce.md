@@ -44,7 +44,7 @@ Repo of API and sample:
 
 # Native dApp Development
 
-## SIMPLEWALLET API
+## SimpleWallet API
 
 If your DAPP is based on native development, you could open MathWallet to sign your transaction through SimpleWallet protocol or use Math Wallet to scan and authorize.
 

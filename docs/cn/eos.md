@@ -44,11 +44,11 @@ mds-eosjs 接口和sample可以查看下面的代码仓库，目前已经在麦�
 
 # Native DAPP 开发
 
-## SIMPLEWALLET 协议
+## SimpleWallet 协议
 
-如果您的DAPP是基于Native开发，您可以通过SimpleWallet协议跳转麦子钱包或者由麦子钱包扫描二维码或者跳转进行授权。
+如果您的DAPP是基于Native开发，您可以通过 SimpleWallet 协议跳转麦子钱包或者由麦子钱包扫描二维码或者跳转进行授权。
 
-目前 EOS骑士、鲸交所、Newdex、SpiderStore 等 Native APP 已经使用麦子所提供的 SIMPLEWALLET 协议接口。
+目前 EOS骑士、鲸交所、Newdex、SpiderStore 等 Native APP 已经使用麦子所提供的 SimpleWallet 协议接口。
 
 协议标准请查看：
 

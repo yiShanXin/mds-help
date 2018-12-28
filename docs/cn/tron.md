@@ -1,20 +1,20 @@
-以太坊 DAPP 开发文档
+波场 DAPP 开发文档
 
 # H5 DAPP 开发
 
-## Web3 API
+## TronWeb API
 
-麦子钱包兼容 ETH 的 web3 API，并提供与 metamask 同样功能
+麦子钱包兼容 TronWeb (web3) API 协议，并提供与 tronlink,tronapy 同样功能
 
-### Web3 API 官方文档
+### TronWeb API 官方文档
 
-[https://github.com/ethereum/wiki/wiki/JavaScript-API](https://github.com/ethereum/wiki/wiki/JavaScript-API)
+[https://github.com/TronWatch/TronWeb](https://github.com/TronWatch/TronWeb)
 
-### Web3 API 开发示例
+### Tron DAPP 开发示例
 
-麦子钱包团队开发的 Web3 API 开发示例和测试方法
+[https://github.com/MediShares/mds-trxjs](https://github.com/MediShares/mds-trxjs)
 
-[https://github.com/MediShares/mds-ethjs](https://github.com/MediShares/mds-ethjs)
+[https://github.com/kookiekrak/TronLink-Demo-Messages](https://github.com/kookiekrak/TronLink-Demo-Messages)
 
 # Native DAPP 开发
 
@@ -26,7 +26,7 @@
 
 [https://github.com/MediShares/SimpleWallet](https://github.com/MediShares/SimpleWallet)
 
-注意：transferReq.blockchain 参数请传 ethereum
+注意：transferReq.blockchain 参数请传 tron
 
 麦子钱包团队开发了一套APP端调起麦子钱包进行支付的示例代码：
 

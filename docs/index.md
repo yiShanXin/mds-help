@@ -4,11 +4,15 @@
 
 请点击【中文】菜单，然后选择你正在开发的公链，查看详细文档。
 
+如果您的 DAPP 已经开发完成，请通过这个链接提交给我们：[https://m.medishares.net/eth/submitNewDapp](https://m.medishares.net/eth/submitNewDapp)
+
 # Getting Started
 
 Math Wallet is the most powerful and secure universal crypto wallet that enables storage of all BTC, ETH/ERC20, NEO/NEP5, EOS, TRON tokens, supports cross-chain token exchange and a multi-chain dApp store.
 
 Please Click 'English' and choose the chain which we are developing to start.
+
+Submit your dApp to us: [https://m.medishares.net/eth/submitNewDapp](https://m.medishares.net/eth/submitNewDapp)
 
 # 시작하기
 
