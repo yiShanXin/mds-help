@@ -22,6 +22,12 @@ Sample project for EOS newbie
 
 [https://github.com/ericfish/EOS-Dev-Book](https://github.com/ericfish/EOS-Dev-Book)
 
+### dApps using Scatter API
+
+[DICE](https://betdice.one)
+
+[Chintai](https://eos.chintai.io)
+
 ### Scatter API QA
 
 Q. Is it neccessary to distinguish the sactter.js file from wallet or PC side?
@@ -56,9 +62,16 @@ To use this API, please read the API doc:
 
 Note: transferReq.blockchain please use 'eosio'
 
+### SimpleWallet API Demo Projects
+
 SDK example developed by Math Wallet team:
 
 iOS – [https://github.com/MediShares/MathWalletSDK-iOS](https://github.com/MediShares/MathWalletSDK-iOS)
 
 Android – [https://github.com/MediShares/MathWalletSDK-Android](https://github.com/MediShares/MathWalletSDK-Android)
 
+### dApps using SimpleWallet API
+
+[EOS骑士](http://eosknights.io)
+
+[鲸交所](https://whaleex.com)

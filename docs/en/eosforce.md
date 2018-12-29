@@ -22,6 +22,12 @@ Sample project for EOS newbie
 
 [https://github.com/ericfish/EOS-Dev-Book](https://github.com/ericfish/EOS-Dev-Book)
 
+### dApps using Scatter API
+
+[FINGER GUESS](http://www.guessplay.net)
+
+[Akdex](https://dapp.akdex.io)
+
 ### Scatter API QA
 
 Q. Is it neccessary to distinguish the sactter.js file from wallet or PC side?
@@ -55,6 +61,8 @@ To use this API, please read the API doc:
 [https://github.com/MediShares/SimpleWallet](https://github.com/MediShares/SimpleWallet)
 
 Note: transferReq.blockchain please use 'eosforce'
+
+### SimpleWallet API Demo Projects
 
 SDK example developed by Math Wallet team:
 

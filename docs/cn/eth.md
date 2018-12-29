@@ -16,6 +16,12 @@
 
 [https://github.com/MediShares/mds-ethjs](https://github.com/MediShares/mds-ethjs)
 
+### 使用 Web3 接口的应用
+
+[Fomo3D](http://exitscam.me/)
+
+[CryptoKitties](https://www.cryptokitties.co/)
+
 # Native DAPP 开发
 
 ## SimpleWallet 协议
@@ -27,6 +33,8 @@
 [https://github.com/MediShares/SimpleWallet](https://github.com/MediShares/SimpleWallet)
 
 注意：transferReq.blockchain 参数请传 ethereum
+
+### SimpleWallet API 开发示例
 
 麦子钱包团队开发了一套APP端调起麦子钱包进行支付的示例代码：
 

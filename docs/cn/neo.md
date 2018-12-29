@@ -10,6 +10,6 @@ NEO DAPP 开发文档
 
 [https://github.com/MediShares/math-js-sdk](https://github.com/MediShares/math-js-sdk)
 
-'''
+```
 mathwallet.NEO.transfer(from, amount, to, memo).then(console.log);
-'''
+```

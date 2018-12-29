@@ -22,6 +22,12 @@ Scatter接口的优点是通用性好，除了移动端在麦子钱包内直接�
 
 [https://github.com/ericfish/EOS-Dev-Book](https://github.com/ericfish/EOS-Dev-Book)
 
+### 使用 Scatter 接口的应用
+
+[DICE](https://betdice.one)
+
+[Chintai](https://eos.chintai.io)
+
 ### Scatter API 相关问题
 
 Q: 钱包和PC端引入的 scatter.js 文件需要区分一下吗？
@@ -56,9 +62,16 @@ mds-eosjs 接口和sample可以查看下面的代码仓库，目前已经在麦�
 
 注意：transferReq.blockchain 参数请传 eosio
 
+### SimpleWallet API 开发示例
+
 麦子钱包团队开发了一套APP端调起麦子钱包进行支付的示例代码：
 
 iOS – [https://github.com/MediShares/MathWalletSDK-iOS](https://github.com/MediShares/MathWalletSDK-iOS)
 
 Android – [https://github.com/MediShares/MathWalletSDK-Android](https://github.com/MediShares/MathWalletSDK-Android)
 
+### 使用 SimpleWallet 接口的应用
+
+[EOS骑士](http://eosknights.io)
+
+[鲸交所](https://whaleex.com)

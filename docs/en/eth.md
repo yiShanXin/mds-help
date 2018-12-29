@@ -16,6 +16,12 @@ Math Wallet web3 API development and testing sample
 
 [https://github.com/MediShares/mds-ethjs](https://github.com/MediShares/mds-ethjs)
 
+### dApps using Web3 API
+
+[Fomo3D](http://exitscam.me/)
+
+[CryptoKitties](https://www.cryptokitties.co/)
+
 # Native dApp Development
 
 ## SimpleWallet API
@@ -27,6 +33,8 @@ To use this API, please read the API doc:
 [https://github.com/MediShares/SimpleWallet](https://github.com/MediShares/SimpleWallet)
 
 Note: transferReq.blockchain please use 'ethereum'
+
+### SimpleWallet API Demo Projects
 
 SDK example developed by Math Wallet team:
 

@@ -16,6 +16,12 @@
 
 [https://github.com/kookiekrak/TronLink-Demo-Messages](https://github.com/kookiekrak/TronLink-Demo-Messages)
 
+### 使用 TronWeb 接口的应用
+
+[TronBet](https://www.tronbet.io)
+
+[TRX Market](http://trx.market)
+
 # Native DAPP 开发
 
 ## SimpleWallet 协议
@@ -27,6 +33,8 @@
 [https://github.com/MediShares/SimpleWallet](https://github.com/MediShares/SimpleWallet)
 
 注意：transferReq.blockchain 参数请传 tron
+
+### SimpleWallet API 开发示例
 
 麦子钱包团队开发了一套APP端调起麦子钱包进行支付的示例代码：
 

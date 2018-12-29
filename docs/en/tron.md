@@ -16,6 +16,12 @@ MathWallet has supported TronWeb (web3) API same as tronlink or tronpay.
 
 [https://github.com/kookiekrak/TronLink-Demo-Messages](https://github.com/kookiekrak/TronLink-Demo-Messages)
 
+### dApps using TronWeb API
+
+[TronBet](https://www.tronbet.io)
+
+[TRX Market](http://trx.market)
+
 # Native dApp Development
 
 ## SimpleWallet API
@@ -27,6 +33,8 @@ To use this API, please read the API doc:
 [https://github.com/MediShares/SimpleWallet](https://github.com/MediShares/SimpleWallet)
 
 Note: transferReq.blockchain please use 'tron'
+
+### SimpleWallet API Demo Projects
 
 SDK example developed by Math Wallet team:
 
