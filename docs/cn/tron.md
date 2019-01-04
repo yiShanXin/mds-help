@@ -1,6 +1,6 @@
 波场 DAPP 开发文档
 
-# H5 DAPP 开发
+# 钱包内 H5 DAPP 开发
 
 ## TronWeb API
 
@@ -22,11 +22,17 @@
 
 [TRX Market](http://trx.market)
 
-# Native DAPP 开发
+# Native/Web DAPP 开发
 
 ## SimpleWallet 协议
 
-如果您的DAPP是基于Native开发，您可以通过 SimpleWallet 协议跳转麦子钱包或者由麦子钱包扫描二维码或者跳转进行授权。
+您可以通过麦子钱包定制版 SimpleWallet 协议进行：
+
+1 Native APP 跳转麦子钱包支付或合约签名
+
+2 网页跳转麦子钱包支付或合约签名
+
+3 使用麦子钱包扫描二维码支付或合约签名
 
 协议标准请查看：
 

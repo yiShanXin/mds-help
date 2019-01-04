@@ -1,6 +1,6 @@
 BTC DAPP Development Document
 
-# Web dApp Development
+# In-Wallet Web dApp Development
 
 ## math-js-sdk
 

@@ -1,6 +1,6 @@
 EOS原力 DAPP 开发文档
 
-# H5 DAPP 开发
+# 钱包内 H5 DAPP 开发
 
 ## Scatter API（推荐）
 
@@ -48,11 +48,17 @@ mds-eosforcejs 接口和sample可以查看下面的代码仓库，目前已经�
 
 [https://github.com/MediShares/mds-eosforcejs](https://github.com/MediShares/mds-eosforcejs)
 
-# Native DAPP 开发
+# Native/Web DAPP 开发
 
 ## SimpleWallet 协议
 
-如果您的DAPP是基于Native开发，您可以通过 SimpleWallet 协议跳转麦子钱包或者由麦子钱包扫描二维码或者跳转进行授权。
+您可以通过麦子钱包定制版 SimpleWallet 协议进行：
+
+1 Native APP 跳转麦子钱包支付或合约签名
+
+2 网页跳转麦子钱包支付或合约签名
+
+3 使用麦子钱包扫描二维码支付或合约签名
 
 目前 EOS骑士、鲸交所、Newdex、SpiderStore 等 Native APP 已经使用麦子所提供的 SimpleWallet 协议接口。
 

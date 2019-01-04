@@ -1,6 +1,6 @@
 ONT DAPP Development Document
 
-# Web dApp Development
+# In-Wallet Web dApp Development
 
 ## dAPI
 

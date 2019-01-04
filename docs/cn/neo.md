@@ -1,6 +1,6 @@
 NEO DAPP 开发文档
 
-# H5 DAPP 开发
+# 钱包内 H5 DAPP 开发
 
 ## math-js-sdk
 
