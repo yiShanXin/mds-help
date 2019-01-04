@@ -60,8 +60,6 @@ MathWallet SimpleWallet Protocol supports:
 
 2 Web APP can open MathWallet to sign your transaction
 
-3 Use MathWallet scan the QRcode to sign your transaction
-
 This protocol is already used by EOS Knight, Newdex, WhaleEX etc.
 
 To use this API, please read the API doc:
@@ -78,3 +76,10 @@ iOS – [https://github.com/MediShares/MathWalletSDK-iOS](https://github.com/Med
 
 Android – [https://github.com/MediShares/MathWalletSDK-Android](https://github.com/MediShares/MathWalletSDK-Android)
 
+# Scan QRCode API
+
+MathWallet supports scan QRcode to login and sign transaction based on SimpleWallet protocol.
+
+To use this API, please read the API doc:
+
+[https://github.com/MediShares/SimpleWallet](https://github.com/MediShares/SimpleWallet)

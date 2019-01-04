@@ -15,3 +15,11 @@ Math Wallet is compatible with ONT dAPI.
 [ONTBET](https://ont.bet/)
 
 [HyperDragons Go!](https://hyd-go.alfakingdom.com/)
+
+# Scan QRCode API
+
+MathWallet supports scan QRcode to login and sign transaction based on Cyano protocol.
+
+To use this API, please read the API doc:
+
+[Docking Process for Scanning QRcode](https://github.com/ontio-cyano/integration-docs/blob/master/en/WalletDocking-scan-qrcode_en.md)

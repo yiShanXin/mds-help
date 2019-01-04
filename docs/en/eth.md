@@ -34,8 +34,6 @@ MathWallet SimpleWallet Protocol supports:
 
 2 Web APP can open MathWallet to sign your transaction
 
-3 Use MathWallet scan the QRcode to sign your transaction
-
 To use this API, please read the API doc:
 
 [https://github.com/MediShares/SimpleWallet](https://github.com/MediShares/SimpleWallet)

@@ -32,8 +32,6 @@
 
 2 网页跳转麦子钱包支付或合约签名
 
-3 使用麦子钱包扫描二维码支付或合约签名
-
 协议标准请查看：
 
 [https://github.com/MediShares/SimpleWallet](https://github.com/MediShares/SimpleWallet)
