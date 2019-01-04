@@ -26,7 +26,7 @@ Math Wallet web3 API development and testing sample
 
 ## SimpleWallet API
 
-If your DAPP is based on native development, you could open MathWallet to sign your transaction through SimpleWallet protocol or use Math Wallet to scan and authorize.
+If your DAPP is based on native development or browser based, you could open MathWallet to sign your transaction through SimpleWallet protocol or use Math Wallet to scan and authorize.
 
 MathWallet SimpleWallet Protocol supports:
 
