@@ -22,7 +22,7 @@ MathWallet has supported TronWeb (web3) API same as tronlink or tronpay.
 
 [TRX Market](http://trx.market)
 
-# Native/Web dApp Development
+# Native dApp Development
 
 ## SimpleWallet API
 
@@ -30,9 +30,7 @@ If your DAPP is based on native development or browser based, you could open Mat
 
 MathWallet SimpleWallet Protocol supports:
 
-1 Native APP can open MathWallet to sign your transaction
-
-2 Web APP can open MathWallet to sign your transaction
+Native APP can open MathWallet to sign your transaction.
 
 To use this API, please read the API doc:
 
@@ -47,4 +45,18 @@ SDK example developed by Math Wallet team:
 iOS – [https://github.com/MediShares/MathWalletSDK-iOS](https://github.com/MediShares/MathWalletSDK-iOS)
 
 Android – [https://github.com/MediShares/MathWalletSDK-Android](https://github.com/MediShares/MathWalletSDK-Android)
+
+# Web dApp Development
+
+Web dApp within mobile browser can open MathWallet to sign your transaction in a link format.
+
+The format is also based on SimpleWallet Protocol MathWallet version:
+
+[https://github.com/MediShares/SimpleWallet](https://github.com/MediShares/SimpleWallet)
+
+Demo & Sample Code：
+
+[http://developer.mathwallet.org/sample12/](http://developer.mathwallet.org/sample12/)
+
+[https://github.com/MediShares/mds-eosjs/tree/master/eos/sample12](https://github.com/MediShares/mds-eosjs/tree/master/eos/sample12)
 

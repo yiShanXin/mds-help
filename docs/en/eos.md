@@ -48,7 +48,7 @@ Repo of API and sample:
 
 [https://github.com/MediShares/mds-eosjs](https://github.com/MediShares/mds-eosjs)
 
-# Native/Web dApp Development
+# Native dApp Development
 
 ## SimpleWallet API
 
@@ -56,9 +56,7 @@ If your DAPP is based on native development or browser based, you could open Mat
 
 MathWallet SimpleWallet Protocol supports:
 
-1 Native APP can open MathWallet to sign your transaction
-
-2 Web APP can open MathWallet to sign your transaction
+Native APP can open MathWallet to sign your transaction.
 
 This protocol is already used by EOS Knight, Newdex, WhaleEX etc.
 
@@ -81,6 +79,20 @@ Android – [https://github.com/MediShares/MathWalletSDK-Android](https://github
 [EOS Knights](http://eosknights.io)
 
 [WhaleEX](https://whaleex.com)
+
+# Web dApp Development
+
+Web dApp within mobile browser can open MathWallet to sign your transaction in a link format.
+
+The format is also based on SimpleWallet Protocol MathWallet version:
+
+[https://github.com/MediShares/SimpleWallet](https://github.com/MediShares/SimpleWallet)
+
+Demo & Sample Code：
+
+[http://developer.mathwallet.org/sample12/](http://developer.mathwallet.org/sample12/)
+
+[https://github.com/MediShares/mds-eosjs/tree/master/eos/sample12](https://github.com/MediShares/mds-eosjs/tree/master/eos/sample12)
 
 # Scan QRCode API
 

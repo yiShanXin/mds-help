@@ -48,15 +48,13 @@ mds-eosjs 接口和sample可以查看下面的代码仓库，目前已经在麦�
 
 [https://github.com/MediShares/mds-eosjs](https://github.com/MediShares/mds-eosjs)
 
-# Native/Web DAPP 开发
+# Native DAPP 开发
 
 ## SimpleWallet 协议
 
 您可以通过麦子钱包定制版 SimpleWallet 协议进行：
 
-1 Native APP 跳转麦子钱包支付或合约签名
-
-2 网页跳转麦子钱包支付或合约签名
+Native APP 跳转麦子钱包支付或合约签名。
 
 目前 EOS骑士、鲸交所、Newdex、SpiderStore 等 Native APP 已经使用麦子所提供的 SimpleWallet 协议接口。
 
@@ -79,6 +77,18 @@ Android – [https://github.com/MediShares/MathWalletSDK-Android](https://github
 [EOS骑士](http://eosknights.io)
 
 [鲸交所](https://whaleex.com)
+
+# 网页 DAPP 打开麦子钱包支付
+
+支持手机浏览器网页通过链接的形式打开麦子钱包进行支付和合约签名。接口基于 SimpleWallet 协议麦子拓展版本：
+
+[https://github.com/MediShares/SimpleWallet](https://github.com/MediShares/SimpleWallet)
+
+示例DEMO和代码：
+
+[http://developer.mathwallet.org/sample12/](http://developer.mathwallet.org/sample12/)
+
+[https://github.com/MediShares/mds-eosjs/tree/master/eos/sample12](https://github.com/MediShares/mds-eosjs/tree/master/eos/sample12)
 
 # 钱包扫码登录和支付
 

@@ -16,15 +16,13 @@
 
 [HyperDragons Go!](https://hyd-go.alfakingdom.com/)
 
-# Native/Web DAPP 开发
+# Native DAPP 开发
 
 ## SimpleWallet 协议
 
 您可以通过麦子钱包定制版 SimpleWallet 协议进行：
 
-1 Native APP 跳转麦子钱包支付或合约签名
-
-2 网页跳转麦子钱包支付或合约签名
+Native APP 跳转麦子钱包支付或合约签名。
 
 协议标准请查看：
 
@@ -39,3 +37,15 @@
 iOS – [https://github.com/MediShares/MathWalletSDK-iOS](https://github.com/MediShares/MathWalletSDK-iOS)
 
 Android – [https://github.com/MediShares/MathWalletSDK-Android](https://github.com/MediShares/MathWalletSDK-Android)
+
+# 网页 DAPP 打开麦子钱包支付
+
+支持手机浏览器网页通过链接的形式打开麦子钱包进行支付和合约签名。接口基于 SimpleWallet 协议麦子拓展版本：
+
+[https://github.com/MediShares/SimpleWallet](https://github.com/MediShares/SimpleWallet)
+
+示例DEMO和代码：
+
+[http://developer.mathwallet.org/sample12/](http://developer.mathwallet.org/sample12/)
+
+[https://github.com/MediShares/mds-eosjs/tree/master/eos/sample12](https://github.com/MediShares/mds-eosjs/tree/master/eos/sample12)
